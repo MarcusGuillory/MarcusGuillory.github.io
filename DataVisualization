@@ -1,0 +1,151 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Marcus Guillory - Data Management</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Marcus Guillory</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+             						<li><a href="index.html">Data Analytics</a></li>
+							<li class="active"><a href="DataManagement.html">Data Management</a></li>
+							<li><a href="generic.html">MBA Projects</a></li>
+							<li><a href="Resume.html">Resume</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/marcusguillory/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/MarcusGuillory?tab=repositories" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h1><a href="#">Data Management </a></h1>
+									<p>This is a collection of Data Management (SQL) projects that I completed during the dual program. </p>
+								</header>
+								<a href="https://github.com/MarcusGuillory/HospitalDBMS" class="image main"><img src="images/ERDProject.png" alt="" /></a>
+								<p>This was the final SQL project for the Database Foundations for Business Analytics class. With an emphasis on DDL/DML frameworks and SQL quering, frequent experimentation was highly encouraged. Guidelines were intentionally ambiguous with little direction given to students for how to build DDL/DML queries for our chosen industry data. </p>
+								<ul class="actions special">
+									<li><a href="https://github.com/MarcusGuillory/HospitalDBMS" class="button large">View SQL Hospital DBMS</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<h2><a href="#">DDL/DML Framework<br />
+										and SQL Queries</a></h2>
+									</header>
+									<a href="https://github.com/MarcusGuillory/HospitalDBMS" class="image fit"><img src="images/DDL.png" alt="" /></a>
+									<p>To build our schema represented by the ERD diagram, I coded the DDL and DML files that laid the foundation for our SQL queries. Here you can examine the creation of Tables, Primary Keys, Foreign Keys, Functions, Triggers, Sequences, and Drop statements. In the DML file, you can view all data that was inserted to simulate our Hospital Management System Database. We were also prompted with over 20 varying data requests with increasing difficulty to which we had to construct SQL statements to portray the data asked for.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/MarcusGuillory/HospitalDBMS" class="button">View Code</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="#">Final Technical<br />
+										Report</a></h2>
+									</header>
+									<a href="https://github.com/MarcusGuillory/HospitalDBMS" class="image fit"><img src="images/FinalReport2.png" alt="" /></a>
+									<p>Here you can find our Final Technical Report that presents a comprehensive approach to designing, implementing, and managing a hospital database schema from start to finish. </p>
+									<ul class="actions special">
+										<li><a href="https://github.com/MarcusGuillory/HospitalDBMS" class="button">View Report</a></li>
+									</ul>
+								</article>
+							</section>
+
+						<!-- Footer -->
+							<footer></footer>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Location</h3>
+								<p>Dallas-Fort Worth Metroplex</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(409) 658-7874</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">marcus.guillory@utdallas.edu</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/marcusguillory/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/MarcusGuillory?tab=repositories" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Marcus Guillory</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+						Template Sourced through <a href="https://html5up.net">HTML5 UP</a> under the <a href="https://html5up.net/license">Creative Commons license</a>.</p>
+
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
