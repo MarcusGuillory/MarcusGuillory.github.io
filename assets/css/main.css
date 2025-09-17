@@ -5,6 +5,7 @@
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 */
 
 html, body, div, span, applet, object,
@@ -3836,6 +3837,7 @@ input, select, textarea {
 			-webkit-align-items: -webkit-stretch;
 			-ms-align-items: -ms-stretch;
 			align-items: stretch;
+			justify-content: center; /* <-- ADD THIS LINE (Centers Personal Project Last Cell) */
 			text-align: center;
 			width: 100%;
 			padding: 0;
