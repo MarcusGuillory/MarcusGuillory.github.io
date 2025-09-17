@@ -3837,7 +3837,6 @@ input, select, textarea {
 			-webkit-align-items: -webkit-stretch;
 			-ms-align-items: -ms-stretch;
 			align-items: stretch;
-			justify-content: center; /* <-- ADD THIS LINE (Centers Personal Project Last Cell) */
 			text-align: center;
 			width: 100%;
 			padding: 0;
@@ -4689,3 +4688,4 @@ input, select, textarea {
 		}
 
 	}
+
